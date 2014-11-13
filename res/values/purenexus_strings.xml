@@ -33,4 +33,12 @@
     <string name="prox_auto_speaker_incall_only_summary_on">On outgoing calls, listener will only become active after the receiving party answers</string>
     <string name="prox_auto_speaker_incall_only_summary_off">Listener will be active during all offhook call states (default)</string>
 
+    <!-- Advanced Settings -->
+    <string name="advanced_setting">Advanced Settings</string>
+
+    <!-- Blacklist preferences -->
+    <string name="blacklist_title">Blocked caller list</string>
+    <string name="blacklist_summary_disabled">Disabled</string>
+    <string name="blacklist_summary">You will not receive incoming calls or messages from phone numbers on the blocked caller list</string>
+
 </resources>
