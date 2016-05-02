@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 The Pure Nexus Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Mobile network settings screen, setting check box name -->
+    <string name="national_roaming">Itinerancia de datos nacional</string>
+    <!-- Mobile network settings screen, setting summary text when check box is selected -->
+    <string name="national_roaming_enable">Connect to data services when nationally roaming</string>
+    <!-- Mobile network settings screen, setting summary text when check box is clear -->
+    <string name="national_roaming_disable">No conectar a los servicios de datos en intinerancia nacional</string>
+
+    <!-- Proximity speaker -->
+    <string name="display_category_prox_auto_speaker_title">Configuración de proximidad del altavoz</string>
+    <string name="prox_auto_speaker_title">Altavoz de proximidad automático</string>
+    <string name="prox_auto_speaker_summary">Activar el altavoz cuando el dispositivo se retira de la cara</string>
+    <string name="prox_auto_speaker_delay_title">Retardo de proximidad del altavoz</string>
+    <string name="prox_auto_speaker_delay_summary">Retardo antes de que se active el altavoz</string>
+    <string name="prox_auto_speaker_incall_only_title">Sólo durante la llamada</string>
+    <string name="prox_auto_speaker_incall_only_summary_on">En las llamadas salientes, el detector sólo se activará después de que la otra persona conteste</string>
+    <string name="prox_auto_speaker_incall_only_summary_off">El detector estará activo durante todos los estados de llamada descolgada (por defecto)</string>
+
+    <!-- Flip to Mute/Reject -->
+    <string name="flip_action_title">Acción al voltear</string>
+    <string name="flip_action_dialog_title">FAl voltear\u2026</string>
+    <string name="flip_action_summary">Al voltear el terminal, <xliff:g id="action">%s</xliff:g></string>
+    <string name="entry_do_nothing">No hacer nada</string>
+    <string name="entry_mute_ringer">Timbre mudo</string>
+    <string name="entry_dismiss_call">Rechazar llamada</string>
+    <string name="summary_do_nothing">No hacer nada</string>
+    <string name="summary_mute_ringer">Silenciar sonido de llamada</string>
+    <string name="summary_dismiss_call">Rechazar la llamada</string>
+
+    <!-- Advanced Settings -->
+    <string name="advanced_setting">Avanzado</string>
+
+    <!-- Blacklist preferences -->
+    <string name="blacklist_title">Lista de contactos bloqueados</string>
+    <string name="blacklist_summary_disabled">Deshabilitada</string>
+    <string name="blacklist_summary">No recibirás llamadas ni mensajes de los números incluidos en la lista de contactos bloqueados</string>
+
+</resources>
